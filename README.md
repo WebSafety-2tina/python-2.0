@@ -1,6 +1,6 @@
-#Marco编程语言学习日记 
-&&包含杂项程序或脚本
-##python基础语法 
+#Marco编程语言学习日记  
+&&包含杂项程序或脚本  
+##python基础语法  
 * python 基础语法
 * python 变量类型
 * python 操作

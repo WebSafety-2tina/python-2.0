@@ -27,7 +27,8 @@
 * python 文件方法
 * python 异常处理
 * python 操作系统文件/目录方法
-* python 内置函数
+* python 内置函数  
+
 ##python高级教程  
 * python 面向对象
 * python 正则表达式

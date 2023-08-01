@@ -44,7 +44,7 @@ if __name__ == "__main__":
     # 要爬取的网站URL
     target_url = "https://mbsifu.com/"
     # 保存图片的目录
-    save_directory = "downloaded_images"
+    save_directory = "下载存放地址"
 
     if not os.path.exists(save_directory):
         os.makedirs(save_directory)

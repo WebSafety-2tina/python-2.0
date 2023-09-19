@@ -1,6 +1,6 @@
-#Marco编程语言学习日记  
+## Marco编程语言学习日记  
 <包含杂项程序或脚本>  
-  ##python基础语法  
+  ## python基础语法  
 * python 基础语法
 * python 变量类型
 * python 操作
@@ -26,7 +26,7 @@
 * python 操作系统文件/目录方法
 * python 内置函数  
 
-##python高级教程  
+## python高级教程  
 * python 面向对象
 * python 正则表达式
 * python CGI变成
